@@ -7,6 +7,9 @@ A simple telegram file storage bot.
 
 A simple website made in html, css and js.
 All you need is create a channel and a bot. Enter their ID and Token and just you have to do is upload a file.
+It is limited to 50 MB
+
+
 
 Here is the step of getting the ID and the Token:
 
